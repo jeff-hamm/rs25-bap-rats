@@ -14,6 +14,9 @@ Welcome! Multiple variations on the **Bring a Pheromone** installation for Room 
 
 Three carnival-style glory holes. One portable booth. An army of trained Scent Sommeliers. Your armpit has stories to tell, and we're here to help people listen.
 
+![The Portable Booth - 2024 Version](images/new_booth2.jpg)
+*The current portable booth structure*
+
 ---
 
 ## 📋 Initial Options (Where It All Started)
@@ -144,16 +147,54 @@ Absurdist "research study" framing with tongue-in-cheek scientific language and 
 
 ## Key Features (All Options)
 
-- 🎪 Portable 50"×24" carnival booth with 3 apertures at varied heights
+- 🎪 Portable 50"×24"
 - 👃 Scent Sommelier training program
 - 🌹 Pheromone-based interaction and optional matchmaking
 - 🎭 Interactive, consent-based, body-positive experience
 - ⏰ Operating hours: Primarily Saturday 2pm-1am, plus Friday/Sunday sessions
-- 💰 Budget: $600-$800 depending on option
-- 🎫 Comps: 6-8 tickets
+- *These 13 proposals represent different levels of thematic integration with the same core interactive experience. Choose based on your preferred balance of accessibility vs. creative boldness vs. metatheme engagement.*
 
 ---
 
-*Project Lead: Jeff Hamm | Comms Lead: Mikaela Holmes | Room Service 2025*
+## 📜 Historical Context: Bring a Pheromone at Burning Man
 
-*These 13 proposals represent different levels of thematic integration with the same core interactive experience. Choose based on your preferred balance of accessibility vs. creative boldness vs. metatheme engagement.*
+This isn't our first rodeo! Bring a Pheromone has been delighting participants since 2013.
+
+### The Original Booth
+
+![Original Bring a Pheromone Booth at Burning Man](images/old_booth.jpg)
+*The iconic red, white, and blue armpit glory-hole booth at Burning Man 2015-2018*
+
+### Scent Sommelier Certification
+
+![Scent Sommelier Card](images/Scent_Sommelier_Card.jpg)
+*Official certification card given to participants after completing Sommelier training*
+
+### Burning Man 2018 Placement Questionnaire
+
+Want to see how we've described this project before? Check out our [2018 Burning Man Placement Questionnaire](historical/Bring_a_Pheromone_2018_Placement_Questionnaire.html) to see the evolution of Bring a Pheromone through the years.
+
+**Previous Burning Man Years:** 2013, 2015, 2016, 2017, 2018
+
+**Notable Press Coverage:**
+
+- Featured in Burning Man's Jack Rabbit Speaks
+- Buzzfeed's "53 Things I Learned at Burning Man"
+- Burning Man Hate Week (yes, really!)
+- Multiple blogs and playa guides
+
+**Signature Events from Previous Years:**
+
+- Pheromone Happy Hour (Scent Sommelier training sessions)
+- Pheromone Tinder (matchmaking via armpit attraction)
+- Pits or Balls (can you tell the difference?)
+- Sniff Out Yer Mate (find your partner by smell alone)
+- 24/7 self-serve armpit glory-hole booth
+
+**The Legacy:** Thousands of armpits sniffed, hundreds of Scent Sommeliers certified, countless "Oh my god, is that an armpit-smelling booth??" reactions, and at least a few lasting connections made through the power of pheromones.
+
+**Now we're bringing it to Room Service 2025** with fresh thematic integration, Victorian botanical aesthetics, and a whole new layer of philosophical armpit appreciation!
+
+---
+
+*"Your nose knows." - Bring a Pheromone motto since 2013*
