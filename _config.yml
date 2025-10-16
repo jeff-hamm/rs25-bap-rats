@@ -1,0 +1,15 @@
+title: Room Service 2025 - Bring a Pheromone RAT Submissions
+description: Various proposals for the Bring a Pheromone installation at Room Service 2025
+theme: minima
+markdown: kramdown
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git/
+  - .gitignore

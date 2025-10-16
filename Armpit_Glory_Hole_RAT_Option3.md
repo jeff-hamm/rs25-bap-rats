@@ -1,4 +1,14 @@
-# The Armpit Glory-Hole (A Study in Chemical Compatibility) - RAT Submission
+---
+layout: default
+title: The Armpit Glory-Hole - RAT Submission
+---
+
+# The Armpit Glory-Hole
+## A Study in Chemical Compatibility
+
+[← Back to all proposals](index.html)
+
+---
 
 ## SECTION 1 - Contact Info
 

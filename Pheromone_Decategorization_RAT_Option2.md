@@ -1,4 +1,13 @@
-# The Decategorization Station (aka Bring a Pheromone) - RAT Submission
+---
+layout: default
+title: The Decategorization Station - RAT Submission
+---
+
+# The Decategorization Station (aka Bring a Pheromone)
+
+[← Back to all proposals](index.html)
+
+---
 
 ## SECTION 1 - Contact Info
 
