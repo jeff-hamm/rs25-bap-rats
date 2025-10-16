@@ -16,9 +16,57 @@ Three carnival-style glory holes. One portable booth. An army of trained Scent S
 
 ---
 
-## 🎨 CREATIVE Options (Bold Thematic Reframings)
+## 📋 Initial Options (Where It All Started)
 
-These options take the core experience and push it in dramatically different thematic directions, deeply integrating with RS25's specific narrative and philosophical themes.
+The first three approaches, ranging from traditional RAT format to absurdist research study.
+
+### Option 1: Bring a Pheromone (Traditional RAT)
+
+Comprehensive traditional format covering all bases: training, matchmaking, certification, community building.
+
+- [View Full Proposal](Bring_a_Pheromone_RAT_2025.html)
+
+### Option 2: Pheromone Decategorization Lab
+
+Theme-focused exploration of how pheromones resist categorization, with emphasis on bodily autonomy.
+
+- [View Full Proposal](Pheromone_Decategorization_RAT_Option2.html)
+
+### Option 3: The Armpit Glory Hole Research Study
+
+Absurdist "research study" framing with IRB-style documentation and carnival booth methodology.
+
+- [View Full Proposal](Armpit_Glory_Hole_RAT_Option3.html)
+
+---
+
+## ⭐ Metatheme but Silly Options (Metatheme + Aesthetic Integration)
+
+These options deeply engage with the North Star question, Sonya Renee Taylor, Descartes critique, and body commodification while staying playful and incorporating specific Style Guide aesthetics.
+
+### Option 1: The Body Refuses (An Armpit Manifesto)
+
+Descartes said your body is a machine. Capitalism turned it into a product. Your armpit disagrees. **Silly-serious exploration of bodily autonomy through Scent Sommelier training, pheromone matchmaking, and Victorian specimen cabinet aesthetics being invaded by botanical chaos.**
+
+- [View Full Proposal](Final_Option_1_Liberation_Project.html)
+
+### Option 2: Bodies Are Impossible to Categorize (We Have Receipts)
+
+Society spent centuries sorting bodies into categories. Then someone invented armpit-sniffing as research methodology and the whole system collapsed. **We're collecting evidence of that collapse with carnival booth glory holes, certification, and a growing archive of categorical failure.**
+
+- [View Full Proposal](Final_Option_2_Impossible_to_Categorize.html)
+
+### Option 3: Your Body Is Not For Sale (But Your Armpit Might Have Opinions)
+
+Late-stage capitalism wants to turn your body into a commodity. Your sweat glands didn't get the memo. **Pop-up research station documenting what happens when bodies communicate in languages that can't be standardized, productized, or reduced to algorithms. The Commodity Exchange Floor where products go to die and bodies get to be free.**
+
+- [View Full Proposal](Final_Option_3_Body_Commodity_Exchange.html)
+
+---
+
+## 📖 Narrative Options (Bold Thematic Reframings)
+
+Creative approaches that reimagine the concept through strong narrative frames that integrate deeply with RS25's themes.
 
 ### Option 1: The Pheromone Underground
 
@@ -46,23 +94,23 @@ The Mind wants to swipe through profiles and make rational choices. Your body ju
 
 ---
 
-## 📝 ROUND 2 Options (Medium Creative Integration)
+## 🌉 BRIDGE Options (Medium Creative Integration)
 
-These bridge traditional RAT structure with stronger RS25 theme integration—accessible hooks with meaningful thematic depth.
+Medium creative approaches that bridge traditional RAT structure with stronger thematic integration—accessible hooks with meaningful depth.
 
-### Round 2-A: The Body's Filing Cabinet
+### Option A: The Body's Filing Cabinet
 
 The Mind tried to organize every body signal into neat categories. We're the overworked archivists documenting the glorious failure of bureaucratic body control. **Mid-century office aesthetics being invaded by botanical chaos.**
 
 - [View Full Proposal](Round2_Option_A_Bodys_Filing_Cabinet.html)
 
-### Round 2-B: Scent Signal Station
+### Option B: Scent Signal Station
 
 Your body parts want to talk to each other, but the Mind keeps blocking the signals. We're amplifying the conversations your body is already having on frequencies the Mind can't monitor. **Body-to-body communication made visible.**
 
 - [View Full Proposal](Round2_Option_B_Scent_Signal_Station.html)
 
-### Round 2-C: The Compatibility Algorithm (System Malfunction)
+### Option C: The Compatibility Algorithm (System Malfunction)
 
 Our matchmaking algorithm was supposed to use rational criteria. It malfunctioned. Now it only works with armpits. The Mind is furious. The Body is thriving. **Tech startup aesthetic being destroyed by botanical rebellion.**
 
@@ -70,23 +118,23 @@ Our matchmaking algorithm was supposed to use rational criteria. It malfunctione
 
 ---
 
-## 📋 ROUND 1 Options (Traditional RAT Format)
+## 📋 INITIAL Options
 
-The original submissions with straightforward presentation of the core experience.
+The first three approaches, ranging from traditional RAT format to absurdist research study—where it all started.
 
-### Round 1-A: Bring a Pheromone (Classic)
+### Option A: Bring a Pheromone (Classic)
 
 Comprehensive traditional RAT submission covering all aspects of the perspiration appreciation installation.
 
 - [View Full Proposal](Bring_a_Pheromone_RAT_2025.html)
 
-### Round 1-B: The Decategorization Station
+### Option B: The Decategorization Station
 
 Theme-focused on how The Mind categorizes vs. how The Body knows, with emphasis on RS25's impossible categorization theme.
 
 - [View Full Proposal](Pheromone_Decategorization_RAT_Option2.html)
 
-### Round 1-C: The Armpit Glory-Hole (Research Study)
+### Option C: The Armpit Glory-Hole (Research Study)
 
 Absurdist "research study" framing with tongue-in-cheek scientific language and peer-review methodology.
 
@@ -101,11 +149,11 @@ Absurdist "research study" framing with tongue-in-cheek scientific language and 
 - 🌹 Pheromone-based interaction and optional matchmaking
 - 🎭 Interactive, consent-based, body-positive experience
 - ⏰ Operating hours: Primarily Saturday 2pm-1am, plus Friday/Sunday sessions
-- 💰 Budget: $600-$750 depending on option
-- 🎫 Comps: 6-7 tickets
+- 💰 Budget: $600-$800 depending on option
+- 🎫 Comps: 6-8 tickets
 
 ---
 
 *Project Lead: Jeff Hamm | Comms Lead: Mikaela Holmes | Room Service 2025*
 
-*These 10 proposals represent different levels of thematic integration with the same core interactive experience. Choose based on your preferred balance of accessibility vs. creative boldness.*
+*These 13 proposals represent different levels of thematic integration with the same core interactive experience. Choose based on your preferred balance of accessibility vs. creative boldness vs. metatheme engagement.*
