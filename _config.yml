@@ -2,9 +2,11 @@ title: Room Service 2025 - Bring a Pheromone RAT Submissions
 description: Various proposals for the Bring a Pheromone installation at Room Service 2025
 theme: minima
 markdown: kramdown
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Build settings
 plugins:
+  - jekyll-remote-them
   - jekyll-feed
   - jekyll-seo-tag
 
