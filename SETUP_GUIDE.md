@@ -105,7 +105,7 @@ Create `_data/navigation.yml`:
 
 **Links not working?**
 - Use `.html` extension in links, not `.md`
-- Or use Jekyll's `{% link filename.md %}` syntax
+- Or use Jekyll's `{% raw %}{% link filename.md %}{% endraw %}` syntax
 
 **Styling issues?**
 - Try a different theme in `_config.yml`
