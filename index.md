@@ -42,6 +42,20 @@ Combines algorithm malfunction, signal station, and anti-capitalism themes into 
 
 - [View Full Proposal](Version_FINAL_Synthesis.html)
 
+---
+
+## 💪 Companion Project - Elbow Appreciation
+
+A separate but related body-part-focused installation running concurrently with Bring a Pheromone.
+
+### Elbow Appreciation - The Bound Banquet
+
+We celebrate connection by giving up control. Arms splinted with branches, guests become plant-person hybrids who can't feed themselves. Everything becomes a team effort—an experiment in cooperation, care, and collective awkwardness. Together, we learn that being bound can be surprisingly freeing.
+
+- [View Full Project Details](Elbow_Appreciation.html)
+
+---
+
 ## Event Theme
 
 **"The Body vs. The Mind: An Impossible Categorization"**
