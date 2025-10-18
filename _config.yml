@@ -25,6 +25,12 @@ navigation:
   - title: "The Bound Banquet (Elbow Appreciation)"
     url: Bound_Banquet
 
+# Hide GitHub-specific elements
+github:
+  is_project_page: false
+  
+show_downloads: false
+
 # Build settings
 plugins:
   - jekyll-remote-them
