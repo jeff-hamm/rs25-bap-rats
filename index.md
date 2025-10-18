@@ -6,17 +6,23 @@ title: Home
 
 Welcome! Multiple variations on the **Bring a Pheromone** installation for Room Service 2025, organized by creative development rounds.
 
----
-
-## 🌿 Latest Versions (October 2025)
-
-The most refined proposals following character limits and emphasizing microbiome intelligence vs. The Mind.
-
 ### Final Version - Microbiome Focus ⭐
 
 Emphasizes microbiome/flora intelligence beating The Mind at matchmaking, with emotional freedom through journaling and paying attention to bodily signals.
 
 - [View Full Proposal](Version_FINAL_Microbiome_Focus.html)
+
+---
+
+## 💪 Companion Projects
+
+## The Bound Banquet (Elbow Appreciation)
+
+We celebrate connection by giving up control. Arms splinted with branches, guests become plant-person hybrids who can't feed themselves. Everything becomes a team effort—an experiment in cooperation, care, and collective awkwardness. Together, we learn that being bound can be surprisingly freeing.
+
+- [View Full Project Details](Bound_Banquet.html)
+  
+---
 
 ### Signal Station Version
 
@@ -42,19 +48,6 @@ Combines algorithm malfunction, signal station, and anti-capitalism themes into 
 
 - [View Full Proposal](Version_FINAL_Synthesis.html)
 
----
-
-## 💪 Companion Project - Elbow Appreciation
-
-A separate but related body-part-focused installation running concurrently with Bring a Pheromone.
-
-### Elbow Appreciation - The Bound Banquet
-
-We celebrate connection by giving up control. Arms splinted with branches, guests become plant-person hybrids who can't feed themselves. Everything becomes a team effort—an experiment in cooperation, care, and collective awkwardness. Together, we learn that being bound can be surprisingly freeing.
-
-- [View Full Project Details](Elbow_Appreciation.html)
-
----
 
 ## Event Theme
 
@@ -168,30 +161,6 @@ Your body parts want to talk to each other, but the Mind keeps blocking the sign
 Our matchmaking algorithm was supposed to use rational criteria. It malfunctioned. Now it only works with armpits. The Mind is furious. The Body is thriving. **Tech startup aesthetic being destroyed by botanical rebellion.**
 
 - [View Full Proposal](Round2_Option_C_Algorithm_Malfunction.html)
-
----
-
-## 📋 INITIAL Options
-
-The first three approaches, ranging from traditional RAT format to absurdist research study—where it all started.
-
-### Option A: Bring a Pheromone (Classic)
-
-Comprehensive traditional RAT submission covering all aspects of the perspiration appreciation installation.
-
-- [View Full Proposal](Bring_a_Pheromone_RAT_2025.html)
-
-### Option B: The Decategorization Station
-
-Theme-focused on how The Mind categorizes vs. how The Body knows, with emphasis on RS25's impossible categorization theme.
-
-- [View Full Proposal](Pheromone_Decategorization_RAT_Option2.html)
-
-### Option C: The Armpit Glory-Hole (Research Study)
-
-Absurdist "research study" framing with tongue-in-cheek scientific language and peer-review methodology.
-
-- [View Full Proposal](Armpit_Glory_Hole_RAT_Option3.html)
 
 ---
 
