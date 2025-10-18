@@ -6,6 +6,42 @@ title: Home
 
 Welcome! Multiple variations on the **Bring a Pheromone** installation for Room Service 2025, organized by creative development rounds.
 
+---
+
+## 🌿 Latest Versions (October 2025)
+
+The most refined proposals following character limits and emphasizing microbiome intelligence vs. The Mind.
+
+### Final Version - Microbiome Focus ⭐
+
+Emphasizes microbiome/flora intelligence beating The Mind at matchmaking, with emotional freedom through journaling and paying attention to bodily signals.
+
+- [View Full Proposal](Version_FINAL_Microbiome_Focus.html)
+
+### Signal Station Version
+
+Bodies communicating around The Mind's attempts at control—a signal station metaphor for pheromone broadcasting.
+
+- [View Full Proposal](Version_A_Signal_Station.html)
+
+### Algorithm Malfunction Version
+
+A matchmaking system designed to commodify attraction gets hacked by the microbiome—capitalism satirized through technology failure.
+
+- [View Full Proposal](Version_B_Algorithm_Malfunction.html)
+
+### Not For Sale Version
+
+Bodies refusing commodification, celebrating the unmarketable authenticity of pheromones that won't perform as products.
+
+- [View Full Proposal](Version_C_Not_For_Sale.html)
+
+### Synthesis Version
+
+Combines algorithm malfunction, signal station, and anti-capitalism themes into a unified narrative.
+
+- [View Full Proposal](Version_FINAL_Synthesis.html)
+
 ## Event Theme
 
 **"The Body vs. The Mind: An Impossible Categorization"**

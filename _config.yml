@@ -4,6 +4,25 @@ theme: minima
 markdown: kramdown
 remote_theme: pages-themes/midnight@v0.2.0
 
+# Navigation order for new proposals
+collections:
+  proposals:
+    output: true
+    permalink: /:name/
+
+# Custom navigation order
+navigation:
+  - title: "Final Version - Microbiome Focus"
+    url: Version_FINAL_Microbiome_Focus
+  - title: "Signal Station Version"
+    url: Version_A_Signal_Station
+  - title: "Algorithm Malfunction Version"
+    url: Version_B_Algorithm_Malfunction  
+  - title: "Not For Sale Version"
+    url: Version_C_Not_For_Sale
+  - title: "Synthesis Version"
+    url: Version_FINAL_Synthesis
+
 # Build settings
 plugins:
   - jekyll-remote-them
