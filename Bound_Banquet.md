@@ -59,9 +59,8 @@ This involves temporarily binding participants' arms and cooperative feeding, so
 
 ### Team Members
 
-- Bex Bourgeois
-- Mikaela Holmes
 - Briana Cushing
+- Bex Bourgeois
 - Eric Karpinski
 
 ### Prior Art
