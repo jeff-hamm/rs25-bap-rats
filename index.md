@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Room Service 2025 - Bring a Pheromone Proposals
+# Room Service 2025 - Bring a Pheromone Proposals 
 
 Welcome! Multiple variations on the **Bring a Pheromone** installation for Room Service 2025, organized by creative development rounds.
 
@@ -21,7 +21,7 @@ Emphasizes microbiome/flora intelligence beating The Mind at matchmaking, with e
 We celebrate connection by giving up control. Arms splinted with branches, guests become plant-person hybrids who can't feed themselves. Everything becomes a team effort—an experiment in cooperation, care, and collective awkwardness. Together, we learn that being bound can be surprisingly freeing.
 
 - [View Full Project Details](Bound_Banquet.html)
-  
+
 ---
 
 ### Signal Station Version
@@ -47,7 +47,6 @@ Bodies refusing commodification, celebrating the unmarketable authenticity of ph
 Combines algorithm malfunction, signal station, and anti-capitalism themes into a unified narrative.
 
 - [View Full Proposal](Version_FINAL_Synthesis.html)
-
 
 ## Event Theme
 
