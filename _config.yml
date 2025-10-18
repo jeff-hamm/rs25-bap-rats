@@ -23,7 +23,7 @@ navigation:
   - title: "Synthesis Version"
     url: Version_FINAL_Synthesis
   - title: "The Bound Banquet (Elbow Appreciation)"
-    url: Elbow_Appreciation
+    url: Bound_Banquet
 
 # Build settings
 plugins:
