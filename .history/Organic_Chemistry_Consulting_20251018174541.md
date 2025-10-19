@@ -1,10 +1,9 @@
 # Organic Chemistry Consulting (Bring a Pheromone)
 
+
 ### Project Overview
 
 The Mind wants to quantify attraction with algorithms. Your microbiome hasn't gotten the memo. Bodies know how to talk to bodies, gut to nose, sweat to brain, flora to flora. Train as a certified Smelliér, surrender your scent to the armpit glory hole, and sniff right on chemical connection.
-
-![Booth Design](images/new_booth_sm.png "Surreal artistic booth design with natural imagery.")
 
 ### Experience Journey
 

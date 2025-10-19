@@ -4,8 +4,6 @@
 
 The Mind wants to quantify attraction with algorithms. Your microbiome hasn't gotten the memo. Bodies know how to talk to bodies, gut to nose, sweat to brain, flora to flora. Train as a certified Smelliér, surrender your scent to the armpit glory hole, and sniff right on chemical connection.
 
-![Booth Design](images/new_booth_sm.png "Surreal artistic booth design with natural imagery.")
-
 ### Experience Journey
 
 Participants find a booth with two circular apertures framed by branches, vines, and disembodied human features. Self-service and staffed sessions available, including during our Pheromone Happy Hour event.
@@ -59,7 +57,7 @@ The room will be sharing space with other art and contain lots of other pheromon
 
 #### Materials
 
-[https://drive.google.com/drive/folders/1CWlh1EqNoOqHqXnsnHrO3pEigTNB3Fhf]()
+*Materials list available in shared drive*
 
 ### Team Members
 
