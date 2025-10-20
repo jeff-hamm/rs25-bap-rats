@@ -2,7 +2,7 @@
 layout: default
 title: 25 RATS! RS2025
 ---
-# 👃 Organic Chemistry
+# 👃 Organic Chemistry (Pheromone Apprciation)
 
 ***Train as a certified Smelliér, surrender your scent to the armpit glory hole, and sniff right on chemical connection.***
 
